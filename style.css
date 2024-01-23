@@ -11,7 +11,7 @@ body {
   font-family: "Poppins", sans-serif;
 }
 #profilepics{
-  border-radius: 50%;
+  border-radius: 20%;
 }
 html {
   scroll-behavior: smooth;
